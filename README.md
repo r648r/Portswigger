@@ -13,22 +13,11 @@
 ```http
 POST /my-account/avatar HTTP/2
 Host: raphzer.net
-Cookie: session=mzJjVyYtsM6zpNW0zN1JXXnud4bOrhVL
+Cookie: session=YEEEEEEEEEEEEEEEEEEEE
 Content-Length: 30156
-Cache-Control: max-age=0
-Sec-Ch-Ua: "Chromium";v="131", "Not_A Brand";v="24"
-Sec-Ch-Ua-Mobile: ?0
-Sec-Ch-Ua-Platform: "macOS"
-Accept-Language: en-GB,en;q=0.9
 Origin: https://raphzer.net
 Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryAglUZXYB3a76I10x
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.86 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Sec-Fetch-Site: same-origin
-Sec-Fetch-Mode: navigate
-Sec-Fetch-User: ?1
-Sec-Fetch-Dest: document
 Referer: https://raphzer.net/my-account?id=wiener
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
@@ -58,13 +47,13 @@ dzWJlCtYyYZRipYXf7rnG2flvqkOpovt
 
 ```http
 POST /my-account/avatar HTTP/2
-Host: 0a7f00a003828f9685a6a894000b0083.web-security-academy.net
-Cookie: session=mzJjVyYtsM6zpNW0zN1JXXnud4bOrhVL
+Host: raphzer.net
+Cookie: session=YEEEEEEEEEEEEEEEEEEEE
 Content-Length: 30156
-Origin: https://0a7f00a003828f9685a6a894000b0083.web-security-academy.net
+Origin: https://raphzer.net
 Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryAglUZXYB3a76I10x
-Sec-Fetch-Dest: document
-Referer: https://0a7f00a003828f9685a6a894000b0083.web-security-academy.net/my-account?id=wiener
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: https://raphzer.net/my-account?id=wiener
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
 
@@ -89,13 +78,13 @@ dzWJlCtYyYZRipYXf7rnG2flvqkOpovt
 
 ```http
 POST /my-account/avatar HTTP/2
-Host: 0a7f00a003828f9685a6a894000b0083.web-security-academy.net
-Cookie: session=mzJjVyYtsM6zpNW0zN1JXXnud4bOrhVL
+Host: raphzer.net
+Cookie: session=YEEEEEEEEEEEEEEEEEEEE
 Content-Length: 30156
-Origin: https://0a7f00a003828f9685a6a894000b0083.web-security-academy.net
+Origin: https://raphzer.net
 Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryAglUZXYB3a76I10x
-Sec-Fetch-Dest: document
-Referer: https://0a7f00a003828f9685a6a894000b0083.web-security-academy.net/my-account?id=wiener
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: https://raphzer.net/my-account?id=wiener
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
 
